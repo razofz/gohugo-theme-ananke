@@ -2,13 +2,13 @@
 other = "More"
 
 [allTitle]
-other = "All {{.Title }}"
+other = "All projects"
 
 [recentTitle]
-other = "Recent {{.Title }}"
+other = "Recent projects"
 
 [readMore]
-other = "read more"
+other = "read about it"
 
 [whatsInThis]
 other = "What's in this {{ .Type }}"
